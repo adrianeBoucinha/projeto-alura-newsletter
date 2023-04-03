@@ -1,4 +1,4 @@
-  # ALURA - NEWSLETTER - Tailwind CSS
+  # ALURA - NEWSLETTER - Tailwind, CSS
 
 Projeto da Alura NEWSLETTER praticando HTML e Tailwind CSS.
 
@@ -6,7 +6,7 @@ Projeto da Alura NEWSLETTER praticando HTML e Tailwind CSS.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **ALURA - Newsletter**
-| :label: Tecnologias | HTML, Tailwind CSS
+| :label: Tecnologias | HTML, Tailwind, CSS
 | :rocket: URL         | https://projeto-alura-newsletter-beige.vercel.app
 | :fire: Desafio     | 
 
